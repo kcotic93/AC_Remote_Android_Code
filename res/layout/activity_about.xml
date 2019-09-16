@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<TextView
+                android:id="@+id/txtDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="7"
+                android:scrollbars="vertical"
+                android:layout_marginRight="7dp"
+          		android:layout_marginStart="7dp"
+          		android:layout_marginLeft="7dp" 
+          		android:layout_marginTop="5dp"
+          		android:textColor="#000000"
+          		android:textSize="17sp" 
+                android:text="TextView" />
+<TextView
+                android:id="@+id/txtDetails2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="7"
+                android:scrollbars="vertical"
+                android:layout_marginRight="7dp"
+          		android:layout_marginStart="7dp"
+          		android:layout_marginLeft="7dp" 
+          		android:layout_marginTop="20dp"
+          		android:textColor="#000000"
+          		android:textSize="17sp" 
+                android:text="TextView" />
+<TextView
+                android:id="@+id/txtDetails3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="7"
+                android:scrollbars="vertical"
+                android:layout_marginRight="7dp"
+          		android:layout_marginStart="7dp"
+          		android:layout_marginLeft="7dp" 
+          		android:layout_marginTop="310dp"
+          		android:textAlignment="center"
+          		android:gravity="center"
+          		android:textColor="#000000"
+          		android:textSize="17sp" 
+                android:text="TextView" />
+<TextView
+                android:id="@+id/txtDetails4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="7"
+                android:scrollbars="vertical"
+                android:layout_marginRight="7dp"
+          		android:layout_marginStart="7dp"
+          		android:layout_marginLeft="7dp" 
+          		android:layout_marginTop="0dp"
+          		android:textAlignment="center"
+          		android:gravity="center"
+          		android:textStyle="bold"
+          		android:textColor="#000000"
+          		android:textSize="17sp" 
+                android:text="TextView" />
+ 
+</LinearLayout>
